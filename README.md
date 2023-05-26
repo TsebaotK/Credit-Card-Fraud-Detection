@@ -14,4 +14,6 @@ The repository includes implementations of several machine learning models for c
 
 Presentation link: https://docs.google.com/presentation/d/1c4cz43iADzM5Gun6E6-Our7qfFsNdLne/edit?usp=sharing&ouid=107556487375136811101&rtpof=true&sd=true
 
+The CSV was too large to add to the repository, so the link it is here on the Kaggle page: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 The evaluation results and performance metrics of each model are provided in the project documentation.
